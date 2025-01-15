@@ -1,0 +1,49 @@
+AKSHIT TANEJA
+Linkedin https://www.linkedin.com/in/akshit-taneja/ | +91 98188 32435 | Portfolio https://akshit-taneja.framer.ai/ | New Delhi, INDIA | akshittaneja77@gmail.com
+Skills
+● Roadmap | Product Sense | Data Driven | Problem-Solving | PRD | A/B Testing | Figma | Product Development | Execution | Strategy | Product Design |
+React | JavaScript | Blockchain | CI/CD | Postman | Git | Solidity | Jira | UX/UI | Agile | Analytics | Microservices | Project Management | Fintech |
+Full-Stack PM | Result Oriented | English, Hindi
+Professional Experience
+Product Manager CYPHEROCK Gurgaon, India 06/2023 - Present
+● Spearheaded the complete cySync v2 app revamp ensuring a smooth user transition from v1 with a UX/UI overhaul using Figma and Figjam (resulting in
+a 40% user engagement increase), streamlined wallet interface (25% reduction in clicks), A/B tested user feedback, integration of WalletConnect for
+seamless dApp interaction & NFT support, and implemented a cost-eective, high-uptime network architecture leveraging best-in-class API platforms,
+RPC nodes, and indexers, leading to a 70% growth in daily active users.
+● Led HSM optimization of X1 vault streamlining the interaction layer for 40% faster hardware-app communication, enhancing UX for a smoother user
+journey and frictionless onboarding (reducing drop-os by 35%), and spearheaded R&D eorts with the hardware team to enable end-to-end Layer 1 &
+Layer 2 blockchain networks support on rmware and SDK levels, increasing user Assets under management (AUM) by $40M.
+● Led the development of Cypherock Cover, the world's rst non-custodial, non-KYC, multi-chain Crypto Inheritance Service by collaborating with
+stakeholders including a team of 15+ engineers, designers, and security experts through detailed market research, user needs analysis, system design,
+whitepaper creation, and project management. This included prioritizing features, overseeing software development, conducting rigorous QA testing and
+security audits, and ensuring successful deployment, resulting in a phenomenal 60% increase in user retention rate through pre-orders for Inheritance
+service, paving the way for a revolutionary solution in secure crypto asset inheritance.
+● Championed the launch of the Collaborative Roadmap, resulting in a 45% reduction in user queries and a 3X increase in community engagement, and
+spearheaded the Summer of Bitcoin 2024 initiative, securing participation from global open-source projects and achieving up to 30% reduction in
+backlog tickets. This success stemmed from ongoing 1-on-1 interactions with end users to gather direct product feedback and prioritize features for
+faster product shipment timelines.
+Product Analyst ELECTRON LABS Remote, Singapore 05/2022 - 01/2023
+● Led the development of ZK-IBC, a novel solution leveraging ZK-proofs to create ecient proofs of consensus validity for Cosmos and Ethereum
+interoperability. This included researching existing proving mechanisms, implementing a Proof-of-Concept (POC) with the team for ed25519 signatures,
+crafting a product roadmap for testnet and mainnet implementation, and collaborating on crucial engineering trade-o decisions. Our eorts resulted in
+securing B2B collaborations exceeding $250k, demonstrating the signicant value proposition of ZK-IBC.
+● Shipped Positron Bridge (testnet bridge connecting Ethereum and NEAR blockchain) through strategic initiative recommendations, initial wireframe
+design, collaborative feature development with the Lead Engineer, and establishment of key success metrics. This resulted in a successful testnet launch,
+driving a 60% surge in new user activity.
+Associate Product Manager COINDCX Remote, India 11/2021 - 04/2022
+● Stewarded a 30% increase in community engagement by actively gathering UX feedback, providing copywriting expertise for improved user experience,
+spearheading educational "DCX Learn" events, and managing comprehensive Discord community user feedback and responses, resulting in the onboarding of
+over 5,000 new users to the exchange.
+● Managed project timelines and budgets for the DCX Learn platform, achieving on-time delivery under budget with a cost savings of $10K.
+Education
+Bachelor Of Technology GGSIPU Delhi, India 07/2018 - 07/2022
+● Major in Information Technology
+Projects
+● CYSYNC APP: Led the complete revamp and new features of Portfolio, DeFi & NFT app focusing on UI/UX, user onboarding, and wallet security.
+● X1 VAULT: Optimized Cypherock's HSM solution for faster user interaction, streamlined UX, and implemented end-to-end L1 & L2 blockchain support.
+● CYPHEROCK COVER: Spearheaded the development of the world's rst non-custodial, non-KYC, multi-chain Crypto Inheritance Service.
+● ZK IBC: Led the development of a novel ZK-based solution for ecient Cosmos and Ethereum interoperability.
+● POSITRON BRIDGE: Shipped Positron Bridge (Testnet bridge connecting Ethereum and NEAR blockchains).
+● TPH WEB3 ACADEMY: Managed the development and launch of TPH WEB3 Academy, an educational platform for Blockchain.
+Certifications
+The Product Folks Software Product Management • Banyan DAO Web3 Product Management • LetsUpgrade Blockchain Bootcamp
